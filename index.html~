@@ -53,10 +53,9 @@
           <p>
             <span class="image main"><img src="images/projects.jpg" alt="" /></span>
             Here are GIFs of my projects with links to GitHub (some projects are in development)
+			<!--<li><a href="https://github.com/NickMalder073/creating-gcc-executable" target="_blank"><span class="label">creating gcc executable</span></a></li>-->
             <li>In the process of filling in ᕦ⁠ʕ⁠ ⁠•⁠ᴥ⁠•⁠ʔ⁠ᕤ</li>
-            <li><a href="https://github.com/m4ld3r/eng_site" target="_blank"><span class="label">For example code of my english site</span></a></li>
-	    <li><a href="https://github.com/m4ld3r/ru_site" target="_blank"><span class="label">For example code of my russian site</span></a></li>
-
+            <li><a href="https://github.com/m4ld3r/my_site" target="_blank"><span class="label">For example code of my site</span></a></li>
           </p>
           <p>
             
